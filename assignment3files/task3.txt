@@ -1,0 +1,192 @@
+the command: 
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&q=HAPPY&type=video&key=AIzaSyA0_ulnw4qrGGeQnLiynB7q5BQWvlZb8HU"
+
+
+
+
+the result:
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0{
+  "kind": "youtube#searchListResponse",
+  "etag": "0xIHNOKeh6V1eL4zTRglnY9CyNk",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "CA",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EhtQ54gVvabondavwCOor_GQ8KA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZbZSe6N_BXs"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-08T08:00:01Z",
+        "channelId": "UCtQMmwBJGvINGU0lZ_GrZKQ",
+        "title": "Pharrell Williams - Happy (Video)",
+        "description": "Official Music Video for \"Happy\" by Pharrell Williams Listen to Pharrell: https://PharrellWilliams.lnk.to/listenYD Subscribe to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbZSe6N_BXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbZSe6N_BXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbZSe6N_BXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PharrellWilliamsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-08T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0JRSV8uW2z274e12ib4Ij3IlTWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vhumOLNSSJY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T04:00:12Z",
+        "channelId": "UCI3H1FsjbdqGcLq93ZilV5g",
+        "title": "NF - HAPPY",
+        "description": "Music video by NF performing HAPPY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vhumOLNSSJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vhumOLNSSJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vhumOLNSSJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NFVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T04:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CGvLHVKdZVMxNx7-2Dd7ZnI83Gc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MOWDb2TBYDg"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-28T11:41:16Z",
+        "channelId": "UCOL10n-as9dXO2qtjjFUQbQ",
+        "title": "HAPPY - Pharrell Williams (feat. Minions)",
+        "description": "Pharrell Williams - Happy Music Video with Minions | Abonnieren ➤ http://abo.yt/kc | Despicable Me 3 Viral Movie #Trailer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MOWDb2TBYDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MOWDb2TBYDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MOWDb2TBYDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KinoCheck",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-28T11:41:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eBMVG3cYTgDsaQ2iDfkWyBVv62Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7E5_TpWgXf8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-06T21:40:05Z",
+        "channelId": "UCt0WjQfMzOpKjxyLjdHCaOg",
+        "title": "Pharrell Williams - Happy (Lyrics)",
+        "description": "PharrellWilliams #Happy #Lyrics Click My Instagram : http://www.instagram.com/abbasngeriworld/ Click My Facebook ...",
+        "thumbnails": {
+100  5906    0  5906    0     0  14679      0 --:--:-- --:--:-- --:--:-- 14691 {
+            "url": "https://i.ytimg.com/vi/7E5_TpWgXf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7E5_TpWgXf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7E5_TpWgXf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cicak Mabor Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-06T21:40:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e85cfxYQK_vRwTXgM__WxBAcOGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C7dPqrmDWxs"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-24T20:00:03Z",
+        "channelId": "UCtQMmwBJGvINGU0lZ_GrZKQ",
+        "title": "Pharrell Williams - Happy (from Despicable Me 2) [Ballroom Version]",
+        "description": "Happy” single available now: http://smarturl.it/happypharrell Pharrell Williams Dear G  I  R  L  Tour Dates September 9: Phones4U ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C7dPqrmDWxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C7dPqrmDWxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C7dPqrmDWxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PharrellWilliamsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-24T20:00:03Z"
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,73 @@
+Domain: primevideo.com -----------------------------------------------------------------------------------------------------------
+
+1
+Name: token
+Value: g4s7UBpyupsPPPdeDRxUgAi30pAy/OxfeIexwJUYJIU1AAAAAQAAAABmA6IPcmF3AAAAAPgWC9WfHH8iB+olH/E9xQ==
+Method: POST
+
+2
+Name: ie
+Value: UTF8
+Method: GET
+
+3
+Name: persistedLanguage
+Value: ms_MY
+Method: POST
+
+4
+Name: persistedLanguage
+Value: da_DK
+Method: POST
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Domain: github.com ----------------------------------------------------------------------------------------------
+
+1
+Name: source
+Value: form-home-signup
+Method: GET
+
+2
+Name: authenticity_token
+Value: 96qpkoKHS0S6x3gTeKCQHx2D2lgBxFtgn0s1SJby8FwteuGYmE3p_pGfZY9GDiMwAxkPRsY4pcniL4i12N_8gg
+Method: POST
+
+3
+Name: authenticity_token
+Value: jKaqNHnnwAUq-9PtsvF36Q0cqN52kjMG0JHOq0jKwl5-LMqBC7JG4PWx2pt8MBuSz0SgqJgovAh227xdG5J0LA
+Method: POST
+
+4
+Name: custom_scope_id
+Value: custom-scopes.customScopesIdField
+Method: POST
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Domain: nexusmods.com -----------------------------------------------------------------------------------------------------------
+
+1
+Name: gsearchtype
+Value: mods
+Method: POST
+
+2
+Name: currentgame
+Value: 0
+Method: POST
+
+3
+Name: hiddengame
+Value: 0
+Method: POST
+
+4
+Name: shield_color
+Value: red
+Method: GET
+
+-----------------------------------------------------------------------------------------------------------

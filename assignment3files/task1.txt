@@ -1,0 +1,28 @@
+Domain: myanimelist.net
+Cookie Name: MALSESSIONID
+Cookie Value: efukctk5ob3h3c40ibbft3gen2
+Cookie Path: /
+
+Domain: .youtube.com
+Cookie Name: SID
+Cookie Value: g.a000hwhlkSbrXq5MRV9Ie0no4KHsQzmcFJyENh9k-GwQzWQbgMApNJIcJ1GyPYAagzeUmrvRKwACgYKAakSAQASFQHGX2Mit24Imh0OilV4OGClrUybZhoVAUF8yKqvB6wgKiTzc3J520mCf36S0076
+Cookie Path: /
+
+Domain: .twitter.com
+Cookie Name: _twitter_sess
+Cookie Value: BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCMsRBn6OAToMY3NyZl9p%250AZCIlMTZjMzQ2MDJmOGE4MTE4ZTRhNWIxNzJjN2NkZDFjMzI6B2lkIiUyODYx%250ANjU4MGViYjlkZThhYTRhZWIyODVjZDA3NTZjMQ%253D%253D--95a8b866b22148ac5ce446983264a921f343265b
+Cookie Path: /
+
+Domain: .kick.com
+Cookie Name: kick_session
+Cookie Value:eyJpdiI6Ii8wSGd0THFsd1RnWng0Vm5XanZyWEE9PSIsInZhbHVlIjoibml2ZGVNZElHdkRRYTNWMHo5b1cxTDF1UjRMVjJockxaRXhBbGdYYUxqUWRPREg4Qm8rVU1GSXhsUFBDK0VXMHBaRlZySno0VGsweW1Va2I5TXpoZW9iWjl0TXNwdnJOSEdMQkhJZHhmTmNpbkt5dmlzYkNMaEJReFlUT2hnelciLCJtYWMiOiI4YjE2YjMxMTAwMzJmOTY3OGNiM2I2YTI0MWJkYTIxNDIzZjJmYTQ1NGZmNDA0YTQwM2M1NzI2N2M5NTQxM2IyIiwidGFnIjoiIn0%3D
+Cookie Path: /
+
+Domain: .google.com
+Cookie Name: SID
+Cookie Value: g.a000hwhlkbNvYp9D5MiZdETyZ_nDOmCFUEIdbgE41Sc8-ijdaiXAS5pb5OoWr9QXRUC59bjFUAACgYKAbMSAQASFQHGX2MicJrfOeNy16kFSiPDib-2kBoVAUF8yKq0b8h0bJ7kYdUvCqKnsHlv0076
+Cookie Path: /
+
+
+
+
