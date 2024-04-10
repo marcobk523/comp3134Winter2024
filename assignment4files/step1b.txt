@@ -1,0 +1,15 @@
+APPENDED QUERY
+msg=<script>alert('Hello, World!')</script>
+
+
+
+
+RUNNING AT
+http://localhost:8000/a4_reflected.php?
+
+FULL URL:
+http://localhost:8000/a4_reflected.php?msg=<script>alert('Hello, World!')</script>
+
+the port is whatever you choose for your php server ex. 8000
+command I used to run server from cmd (requires xampp)
+php -S localhost:8000
